@@ -7,12 +7,12 @@ The purpose of this project is gain insights into how different theater paly cam
 ## Analysis and Challenges
 To perform this analysis the provided kickstart data a pivot table was created with the data filtered by the theater category. The data was grouped by outcome (failed, successful, and live) in columns and by month in rows. The following chart is the result of the pivot table analysis. 
 
-Analysis of Outcomes Based on Launch Date [kickstarter-analysis](https://github.com/AsaHolley/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png) 
+Analysis of Outcomes Based on Launch Date [Outcomes_vs_Goals](https://github.com/AsaHolley/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png) 
 
 A second analysis was conducted using tables built on COUNTIFS forumlas to group successful, failed, and canceled plays in columns by their funding goals divided into 12 different traunches (from >$1,000 to <$50,000). The following chart is the result of the analysis
 
 Analysis of Outcomes vs. initial Fundraising Goals
-[kickstarter-analysis](https://github.com/AsaHolley/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) 
+[Theater_Outcomes_vs_Launch](https://github.com/AsaHolley/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) 
 
 
 ### Challenges and Difficulties Encountered
