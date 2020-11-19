@@ -14,6 +14,8 @@ A second analysis was conducted using tables built on COUNTIFS forumlas to group
 Analysis of Outcomes vs. initial Fundraising Goals
 [Theater_Outcomes_vs_Launch](https://github.com/AsaHolley/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) 
 
+Excel analysis used throughout project: [Link to raw excel file](https://github.com/AsaHolley/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
+
 
 ### Challenges and Difficulties Encountered
 This particualr analysis did not present any specific challenges or difficulties due largely to the fact the data set did not require a significant amount of cleaning or formatting changes. A possible challenge could be deciding what is an outlier because of how much the funding and fundraising goals vary. Another issue is that to do more complex analysis on Kickstarter campaigns this data set may not be sufficient and more detailed data could be needed. 
